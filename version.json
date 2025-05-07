@@ -1,5 +1,5 @@
 {
-  "version": "2.3",
+  "version": "2.3.2",
   "url_windows": "https://github.com/art-belov/updater/releases/download/v2.3/GC.exe",
   "url_macos": "https://github.com/art-belov/updater/releases/download/v2.3/GC"
 }
